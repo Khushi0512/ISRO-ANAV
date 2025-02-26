@@ -36,7 +36,7 @@ ISRO ANAV is an autonomous aerial vehicle designed for precision navigation, map
    ```
 
 ## PDF Documentation
-The full project documentation is available in [ANAV_Documentation.pdf](IRoC-U_2025_Proposal_SkyGrid_v1.pdf). To view it, open the file in any PDF viewer.
+The full project documentation is available in [ANAV_Documentation.pdf](Anav_Documentation.pdf). To view it, open the file in any PDF viewer.
 
 ## Contributing
 1. Fork the repository.
