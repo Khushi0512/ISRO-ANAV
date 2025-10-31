@@ -1,4 +1,5 @@
-# ISRO ANAV
+# ISRO ANAV:
+This Project was Developed under the IROC challenge 2024-25 Provided by ISRO, by a group of 10 students at Dharmsinh Desai University, including myself. A research paper with me as the co-author along with my teammembers and mentor has been published as well by our university. 
 
 ## Overview
 ISRO ANAV is an autonomous aerial vehicle designed for precision navigation, mapping, and real-time decision-making in complex environments, including extraterrestrial terrains. The system integrates cutting-edge technologies such as SLAM, Convolutional Neural Networks (CNN), and adaptive landing gear.
@@ -56,12 +57,4 @@ The full project documentation is available in [ANAV_Documentation.pdf](Anav_Doc
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](https://github.com/twbs/bootstrap/blob/main/LICENSE) for details
-
-## Contact
-For any queries, contact:
-- **Meet Jain**
-- **Email:** meetjain538@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/userofmeet/
-- **About me:** https://userofmeet.vercel.app/
-- **GitHub:** [[Your GitHub Profile]](https://github.com/userofmeet
 
